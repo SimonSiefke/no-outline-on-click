@@ -1,5 +1,6 @@
 {
   "name": "no-outline-on-click",
+<<<<<<< HEAD
   "version": "0.0.3",
   "description": "",
   "main": "build/main/index.js",
@@ -84,4 +85,15 @@
       "**/*.spec.js"
     ]
   }
+=======
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+>>>>>>> 77399dcacbf0ea4fd907c329e01d8f6e2c925271
 }
