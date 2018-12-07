@@ -6,5 +6,5 @@ window.addEventListener(
 );
 window.addEventListener(
   'keydown',
-  event => event.keyCode !== 17 && (s.innerHTML = '')
+  event => ![16,17].includes(event.keyCode) && (s.innerHTML = '')
 );
